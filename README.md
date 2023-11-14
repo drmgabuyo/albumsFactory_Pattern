@@ -9,3 +9,5 @@ AlbumRecord is a class that holds attributes such as albumId, albumName, and a r
 Listener is the client object that interacts with the albums. The client should be able to choose an album, select a song from the album, and decide whether to play or skip the selected song.
 
 Refer to the UML Class Diagram
+
+![AlbumFactory](https://github.com/drmgabuyo/albumsFactory_Pattern/assets/147422759/14d30b88-3720-4800-af04-1b79278990c2)
